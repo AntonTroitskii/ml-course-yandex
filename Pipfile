@@ -12,6 +12,7 @@ torchvision = "*"
 matplotlib = "*"
 tqdm = "*"
 opencv-python-headless = "*"
+scikit-image = "*"
 
 [dev-packages]
 
